@@ -2,7 +2,6 @@
 .fatjar
 .project
 .settings/
-TopicModelingTool.jar
 bin/
 output_csv/
 output_html/
